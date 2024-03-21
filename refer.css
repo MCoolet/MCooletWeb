@@ -11,65 +11,66 @@ body{
     text-align: center;
 }
 #logo{
-    margin-top: 280px;
+    margin-top: 250px;
     margin-left: 100px;
-    width: 850px;
-    height: 650px;
+    width: 950px;
+    height: 700px;
 }
 #youtube{
-    height: 80px;
-    width: 80px;
+    height: 65px;
+    width: 65px;
 }
 #fb{
-    height: 80px;
-    width: 80px;
+    height: 65px;
+    width: 65px;
+    text-align: center;
 }
 #twitter{
 
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #artstation{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #pinterest{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #ko-fi{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 65px;
     text-align: center;
 }#github{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #tiktok{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #thread{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 #instagram{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
 }
 
 .effects{
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     text-align: center;
-    margin-top:-400px;
+    margin-top:-500px;
     text-align: center;
     display: inline-block;
     box-sizing: border-box;
@@ -84,12 +85,12 @@ transition-delay: 0.5s;
 }
 .logoeff{
     margin-top: -700px;
+    margin-bottom: -70px;
 }
 .logoeff:hover{
     color: #262626;
     box-shadow: 0 0 10px white, 0 0 40px white, 0 0 80px white;
     transition: all 200ms linear;
     transition-delay: 0.5s; 
-
 }
 
