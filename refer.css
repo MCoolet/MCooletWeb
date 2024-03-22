@@ -1,0 +1,103 @@
+body{
+    background-color: #262626;
+    background-image: url('bg4.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+}
+.pics{
+    margin-top: 500px;
+    text-align: center;
+}
+#gmail{
+    height: 70px;
+    width: 100px;
+    text-align: center;
+}
+#logo{
+    margin-top: 250px;
+    margin-left: 100px;
+    width: 950px;
+    height: 700px;
+}
+#youtube{
+    height: 65px;
+    width: 65px;
+}
+#fb{
+    height: 65px;
+    width: 65px;
+    text-align: center;
+}
+#twitter{
+
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#artstation{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#pinterest{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#ko-fi{
+    width: 80px;
+    height: 65px;
+    text-align: center;
+}#github{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#tiktok{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#thread{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+#instagram{
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+
+.effects{
+    margin-left: -20px;
+    text-align: center;
+    margin-top:-500px;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.effects:hover{
+color: rgb(0, 0, 0);
+background: rgb(255, 255, 255);
+box-shadow: 0 0 10px 5px rgb(255, 228, 228), 0 0 40px rgb(255, 185, 185), 0 0 80px rgb(189, 85, 85);
+border-radius: 20px;
+transition: all 200ms linear;
+transition-delay: 0.5s;
+opacity: 80%;
+}
+.logoeff{
+    margin-top: -700px;
+    margin-bottom: -70px;
+}
+.logoeff:hover{
+    color: #262626;
+    box-shadow: 0 0 10px white, 0 0 40px white, 0 0 80px white;
+    border-radius: 100px;
+    transition: all 200ms linear;
+    transition-delay: 0.5s; 
+}
+
+
